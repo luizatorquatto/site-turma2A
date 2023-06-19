@@ -1,0 +1,39 @@
+
+1
+2div.fieldset {
+3 dorder: solid black thin;
+4 width: 350px;
+5 background-color: lightsalmo;
+6
+7}
+8fiwldset{
+9  border: nome;
+10 msrgin 0 0 0 -10px;
+11 padding 0;
+12
+13}
+legende{
+    font-size: 25px;
+    background-color: orangered;
+    color: black;
+    width: 100%;
+    padding: 5px;
+    font-weight: bold;
+    
+}
+label.field {
+    text-align: right;
+    width: :100px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+ input. textbox-300 {
+     width: 300px;
+     float: left;
+ }
+ fieldset p {
+     clear: both;
+     padding: 5px;
+     font-family:helvetica ;
+     
